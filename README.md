@@ -1,2 +1,3 @@
 # My-Simple-Calculator
-my first steps in JS
+
+this is a simple calculator with HTML,CSS and JS
